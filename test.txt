@@ -10,4 +10,8 @@
 nikanba
 
 liuyang
+<<<<<<< Updated upstream
 nihao
+=======
+niaho woshi 
+>>>>>>> Stashed changes
